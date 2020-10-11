@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="CBacDaoTao.cs" />
     <Compile Include="CChuyenNganh.cs" />
+    <Compile Include="CDiemRenLuyen.cs" />
     <Compile Include="CGiaoVien.cs" />
     <Compile Include="ChiTietSinhVien.cs">
       <SubType>Form</SubType>
@@ -102,6 +103,12 @@
     </Compile>
     <Compile Include="DSSinhVien.Designer.cs">
       <DependentUpon>DSSinhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="SuaThongTinGD.cs">
       <SubType>Form</SubType>
@@ -200,6 +207,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DSSinhVien.resx">
       <DependentUpon>DSSinhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDangPhatTrien.resx">
       <DependentUpon>FormDangPhatTrien.cs</DependentUpon>

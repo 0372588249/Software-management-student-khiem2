@@ -82,3 +82,4 @@ C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khie
 C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
 C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
 C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
+C:\Users\PC\Documents\Công nghệ Phần Mềm\Software-management-student-khiem2\C# ADO.net\QuanLySV\QuanLySV\obj\Debug\QuanLySV.Form1.resources
